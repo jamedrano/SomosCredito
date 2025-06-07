@@ -1,0 +1,12 @@
+numpy
+streamlit
+matplotlib
+xgboost
+numba
+scikit-learn
+openpyxl
+xlsxwriter
+pygwalker
+pyxlsb
+plotly_express
+seaborn
